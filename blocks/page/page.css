@@ -1,0 +1,8 @@
+.page{
+    max-width: 1440px;
+    min-width: 375px;
+    background:#9c9d9e;
+    text-rendering: optimizeLegibility;
+    box-sizing: border-box;
+    margin: 0 auto;
+}

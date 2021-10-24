@@ -1,0 +1,9 @@
+.header__user-pic {
+    background-image: url('../../../images/man.jpg');
+    width: 40px;
+    height: 40px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+}

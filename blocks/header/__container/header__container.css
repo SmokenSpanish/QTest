@@ -1,0 +1,8 @@
+.header__container {
+    display: flex;
+    align-items: center;
+    border: 1px solid red;
+    width: 82%;
+    height: 80px;
+    margin: 0 auto;
+}
