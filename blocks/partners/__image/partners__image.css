@@ -1,0 +1,5 @@
+.partners__image {
+    max-width: 87%;
+    max-height: 53%;
+    object-fit: cover;
+}

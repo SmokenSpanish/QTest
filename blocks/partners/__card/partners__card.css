@@ -1,0 +1,23 @@
+.partners__card {
+    width: 270px;
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    border: 1px solid#EBEBF1;
+    box-sizing: border-box;
+}
+
+@media screen and (max-width: 768px) {
+    .partners__card {
+        width: 230px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .partners__card {
+        width: 335px;
+        height: 140px;
+    }
+}
