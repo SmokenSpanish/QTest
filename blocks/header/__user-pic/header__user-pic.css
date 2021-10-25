@@ -7,3 +7,11 @@
     background-repeat: no-repeat;
     border-radius: 50%;
 }
+
+@media screen and (max-width: 500px) {
+    .header__user-pic {
+        width: 24px;
+        height: 24px;
+        background-image: url(../../../images/Profile-stroke.png);
+    }
+}

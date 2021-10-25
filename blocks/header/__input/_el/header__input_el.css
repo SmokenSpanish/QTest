@@ -8,3 +8,10 @@
     background-position: center;
     background-size: cover;
 }
+
+@media screen and (max-width: 500px) {
+    .header__input_el {
+        left: 24px;
+        top: 12px;
+    }
+}

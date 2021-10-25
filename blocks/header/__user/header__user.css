@@ -5,3 +5,11 @@
     align-items: center;
     padding-left: 19px;
 }
+
+@media screen and (max-width: 500px) {
+    .header__user {
+        height: 24px;
+        padding: 0 20px;
+        border: none;
+    }
+}
