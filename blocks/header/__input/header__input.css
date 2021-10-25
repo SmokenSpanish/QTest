@@ -1,8 +1,9 @@
 .header__input {
-    width: calc(100% - 120px);
+    width: 82%;
     border: 1px solid #EBEBF1;
     border-radius: 5px;
     outline: none;
+    padding-left: 39px;
 }
 
 .header__input::placeholder {

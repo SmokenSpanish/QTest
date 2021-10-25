@@ -1,0 +1,10 @@
+.header__input_el {
+    width: 16px;
+    height: 16px;
+    position: absolute;
+    left: 74px;
+    top: 11px;
+    background-image: url(../../../../images/Ellipse.png);
+    background-position: center;
+    background-size: cover;
+}
