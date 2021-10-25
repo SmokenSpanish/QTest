@@ -1,0 +1,25 @@
+.header__input {
+    width: 100%;
+    border: 1px solid #EBEBF1;
+    border-radius: 5px;
+    outline: none;
+    padding-left: 39px;
+}
+
+.header__input::placeholder {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.01em;
+    color: #BBC4D6;
+}
+
+@media screen and (max-width: 500px) {
+    .header__input {
+        border: none;
+        border-radius: 0;
+        padding-left: 48px;
+    }    
+}

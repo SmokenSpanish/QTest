@@ -1,0 +1,25 @@
+.header__form {
+    max-width: 763px;
+    width: 100%;
+    height: 40px;
+    margin: 0 60px;
+    display: flex;
+    position: relative;
+}
+
+@media screen and (max-width: 768px) { 
+    .header__form {
+        margin: 0 50px;
+        max-width: 344px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .header__form {
+        order: 1;
+        margin: 0;
+        max-width: 100%;
+        border-top: 1px solid #BBC4D6;
+        opacity: .5;
+    }    
+}

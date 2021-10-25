@@ -1,0 +1,17 @@
+.header__input_el {
+    width: 16px;
+    height: 16px;
+    position: absolute;
+    left: 15px;
+    top: 11px;
+    background-image: url(../../../../images/Ellipse.png);
+    background-position: center;
+    background-size: cover;
+}
+
+@media screen and (max-width: 500px) {
+    .header__input_el {
+        left: 24px;
+        top: 12px;
+    }
+}
