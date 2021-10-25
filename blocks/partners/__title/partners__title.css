@@ -1,0 +1,10 @@
+.partners__title {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 160%;
+    text-transform: uppercase;
+    color: #121920;
+    border: 1px solid red;
+}
