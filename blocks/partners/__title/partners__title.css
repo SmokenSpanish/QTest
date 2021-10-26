@@ -14,19 +14,12 @@
 @media screen and (max-width: 768px) {
     .partners__title {
         font-size: 28px;
-        margin-left: 20px;
     }
 }
 
 @media screen and (max-width: 500px) {
     .partners__title {
-        margin-left: 80px;
         margin-top: 65px;
-    }
-}
-
-@media screen and (max-width: 400px) {
-    .partners__title {
-        margin-left: 20px;
+        margin-left: 10px;
     }
 }
